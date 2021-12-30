@@ -6,4 +6,4 @@ Data Science Portfolio
 *  Analyzed data to identify preferred products, brands, categories by Python and R to customize sales promotion to strengthen the e-commerce revenue (Brand and Product Analysis)
 *  Investigated the user's activity throughout the day (Customer Activity Analysis)
 
-![](/main/Images/Event%20Bar%20Graph.PNG)
+![](/Images/Event%20Bar%20Graph.PNG)
