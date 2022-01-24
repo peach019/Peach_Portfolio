@@ -19,3 +19,9 @@ Data Science Portfolio
 ![](/Image/Customer's_Hourly_Website_Views_Jan.PNG)
 
 
+![](/Image/HeatMap_Weekly_by_Hourly_Sales_Nov.PNG)
+![](/Image/HeatMap_Hourly_Sales_Nov.PNG)
+
+
+![](/Image/HeatMap_Weekly_by_Hourly_Sales_Jan.PNG)
+![](/Image/HeatMap_Hourly_Sales_Jan.PNG)
