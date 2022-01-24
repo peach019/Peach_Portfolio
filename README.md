@@ -7,3 +7,15 @@ Data Science Portfolio
 *  Investigated the user's activity throughout the day (Customer Activity Analysis)
 
 ![](/Image/Event_Bar_Graph.PNG)
+
+![](/Image/Customer_Funnel_Oct.PNG)
+![](/Image/Customer_Funnel_Nov.PNG)
+![](/Image/Customer_Funnel_Dec.PNG)
+![](/Image/Customer_Funnel_Jan.PNG)
+![](/Image/Customer_Funnel_Feb.PNG)
+
+
+![](/Image/Customer's_Hourly_Website_Views_Nov.PNG)
+![](/Image/Customer's_Hourly_Website_Views_Jan.PNG)
+
+
